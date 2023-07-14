@@ -81,6 +81,6 @@ Nome autor
 ![Static Badge](https://img.shields.io/badge/Jairo%20Nascimento-jairosousa?logo=github&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fjairosousa)
 
 
-![LINKEDIN](https://img.shields.io/badge/Jairo%20Nascimento-Jairo?logo=linkedin&color=%230e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjairo-nascimento-sousa%2F)
+![LINKEDIN](https://img.shields.io/badge/Jairo%20Nascimento-Jairo?logo=linkedin&color=%230e76a8&link=https//www.linkedin.com/in/jairo-nascimento-sousa/)
 
 referencia: https://shields.io/badges/static-badge
