@@ -76,11 +76,12 @@ Nome autor
 
 
 
-![Static Badge](https://img.shields.io/badge/Jairo%20Nascimento-Jairo?logo=trustedshops&color=%23009688&link=https%3A%2F%2Fjairosousa.github.io%2F)
+[![Static Badge](https://img.shields.io/badge/Jairo%20Nascimento-repo?logo=trustedshops&logoColor=%23FFFFFF&color=%23002244)
+](https://jairosousa.github.io/)
 
-![Static Badge](https://img.shields.io/badge/Jairo%20Nascimento-jairosousa?logo=github&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fjairosousa)
+[![Static Badge](https://img.shields.io/badge/Jairo%20Nascimento-jairosousa?logo=github&color=%23000000)](https://github.com/jairosousa/)
 
 
-![LINKEDIN](https://img.shields.io/badge/Jairo%20Nascimento-Jairo?logo=linkedin&color=%230e76a8&link=https//www.linkedin.com/in/jairo-nascimento-sousa/)
+[![LINKEDIN](https://img.shields.io/badge/Jairo%20Nascimento-Jairo?logo=linkedin&color=%230e76a8&link=https//www.linkedin.com/in/jairo-nascimento-sousa/)](https://www.linkedin.com/in/jairo-nascimento-sousa/) 
 
 referencia: https://shields.io/badges/static-badge
