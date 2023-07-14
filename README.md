@@ -6,7 +6,7 @@ Repositórios de recursoss
 ![repositorio](https://img.shields.io/badge/nomerepositorio-repo?logo=git&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fjairosousa)
 
 
-# Exemples README
+# Example README
 
 # Sobre o Projeto
 Explica de forma clara o projeto as situações feitas no projeto etc..
