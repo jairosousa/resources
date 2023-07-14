@@ -1,5 +1,5 @@
 # Resources
-Repositórios com recursos 
+Repositórios de recursoss
 
 ![LICENCE](https://img.shields.io/github/license/jairosousa/resources)
 
@@ -21,6 +21,21 @@ Pode colocar imagens
 
 # Modelo conceitual
 ![Nodelo](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
+# Competências
+
+Técnica utilizadas no projeto.
+
+ - Padrões de projetos
+ - Padrões de camadas
+ - Integração com outras bibliotecas(pagamentos, uploads)
+
+# Features
+è o escopo da aplicação, o que tem nessa aplicação, os casos de uso que foi implementado.
+
+- Cadastro
+- Relatórios
+- Processo de compra e Processo de pagamento
 
 # Tecnologias utilizadas
 
@@ -69,6 +84,8 @@ yarn install
 # executar o projeto
 yarn start
 ```
+
+# Agradecimentos (Opcional)
 
 # Autor
 
