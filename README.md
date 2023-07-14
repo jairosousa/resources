@@ -106,3 +106,4 @@ Referências:
 - https://readme.so/pt
 - https://envoy-vc.github.io/awesome-badges/
 - https://github.com/anuraghazra/github-readme-stats#themes
+- https://dev.to/envoy_/150-badges-for-github-pnk#web-browsers
