@@ -6,7 +6,7 @@ Repositórios de recursoss
 ![repositorio](https://img.shields.io/badge/nomerepositorio-repo?logo=git&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fjairosousa)
 
 
-# Exemples README
+# Example README
 
 # Sobre o Projeto
 Explica de forma clara o projeto as situações feitas no projeto etc..
@@ -100,4 +100,10 @@ Nome autor
 
 [![LINKEDIN](https://img.shields.io/badge/Jairo%20Nascimento-Jairo?logo=linkedin&color=%230e76a8)](https://www.linkedin.com/in/jairo-nascimento-sousa/) 
 
-referencia: https://shields.io/badges/static-badge
+Referências: 
+- https://shields.io/badges/static-badge
+- https://simpleicons.org/?q=micro
+- https://readme.so/pt
+- https://envoy-vc.github.io/awesome-badges/
+- https://github.com/anuraghazra/github-readme-stats#themes
+- https://dev.to/envoy_/150-badges-for-github-pnk#web-browsers
